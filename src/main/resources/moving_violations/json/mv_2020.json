@@ -1,0 +1,39 @@
+[
+  {
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 340.00
+  },
+  {
+    "date_time": "2020-11-12 19:00:22",
+    "first_name": "Oleg",
+    "last_name": "IKnow",
+    "type": "ACDA",
+    "fine_amount": 400.00
+  },
+  {
+    "date_time": "2020-01-03 09:43:16",
+    "first_name": "Mark",
+    "last_name": "Twardowski",
+    "type": "RED_TRAFFIC_LIGHT_DRIVING",
+    "fine_amount": 550.00
+  },
+  {
+    "date_time": "2020-06-11 08:41:07",
+    "first_name": "Desmond",
+    "last_name": "Jackson",
+    "type": "PARKING_VIOLATION",
+    "fine_amount": 300.00
+  },
+  {
+    "date_time": "2020-26-10 13:17:55",
+    "first_name": "Anna",
+    "last_name": "Will",
+    "type": "SPEEDING",
+    "fine_amount": 340.00
+  }
+]
+
+

@@ -1,0 +1,37 @@
+[
+  {
+    "date_time": "2021-03-09 20:44:09",
+    "first_name": "Jolanta",
+    "last_name": "Xander",
+    "type": "SUSPENDED_LICENSE_DRIVING",
+    "fine_amount": 820.00
+  },
+  {
+    "date_time": "2021-18-06 08:37:17",
+    "first_name": "Birthe",
+    "last_name": "Porsche",
+    "type": "RED_TRAFFIC_LIGHT_DRIVING",
+    "fine_amount": 550.00
+  },
+  {
+    "date_time": "2021-09-08 16:22:30",
+    "first_name": "Adila",
+    "last_name": "Elo",
+    "type": "CROSSWALK_STOP_FAILURE",
+    "fine_amount": 495.00
+  },
+  {
+    "date_time": "2021-27-06 23:21:56",
+    "first_name": "Askanios",
+    "last_name": "Elpis",
+    "type": "STREET_RACING",
+    "fine_amount": 1500.00
+  },
+  {
+    "date_time": "2021-16-09 17:25:43",
+    "first_name": "Radulf",
+    "last_name": "Nurten",
+    "type": "PARKING_VIOLATION",
+    "fine_amount": 300.00
+  }
+]

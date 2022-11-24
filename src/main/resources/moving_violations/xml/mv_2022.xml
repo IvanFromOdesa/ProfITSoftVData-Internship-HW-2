@@ -1,0 +1,32 @@
+<moving_violations>
+    <moving_violation
+            date_time="2022-13-04 19:21:08"
+            first_name="Susann"
+            last_name="Helena"
+            type="RECKLESS_DRIVING"
+            fine_amount="1340.00"/>
+    <moving_violation
+            date_time="2022-27-07 06:48:23"
+            first_name="Ellington"
+            last_name="Gwendoline"
+            type="SPEEDING"
+            fine_amount="400.00"/>
+    <moving_violation
+            date_time="2022-15-02 14:55:49"
+            first_name="Molle"
+            last_name="Abiel"
+            type="SPEEDING"
+            fine_amount="390.00"/>
+    <moving_violation
+            date_time="2022-22-05 20:32:08"
+            first_name="Aldin"
+            last_name="Clemence"
+            type="PARKING_VIOLATION"
+            fine_amount="300.00"/>
+    <moving_violation
+            date_time="2022-04-02 00:34:37"
+            first_name="Lucinde"
+            last_name="Lene"
+            type="STREET_RACING"
+            fine_amount="1500.00"/>
+</moving_violations>
