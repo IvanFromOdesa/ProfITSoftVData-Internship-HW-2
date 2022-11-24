@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<moving_violations>
+  <mv name="STREET_RACING">3000.00</mv>
+  <mv name="SPEEDING">1470.00</mv>
+  <mv name="RECKLESS_DRIVING">1340.00</mv>
+  <mv name="RED_TRAFFIC_LIGHT_DRIVING">1100.00</mv>
+  <mv name="PARKING_VIOLATION">900.00</mv>
+  <mv name="SUSPENDED_LICENSE_DRIVING">820.00</mv>
+  <mv name="CROSSWALK_STOP_FAILURE">495.00</mv>
+  <mv name="ACDA">400.00</mv>
+</moving_violations>
