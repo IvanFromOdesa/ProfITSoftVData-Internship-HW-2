@@ -52,7 +52,7 @@ public class Main {
         if(isJSON) format = "json";
 
         List<File> fileList = new ArrayList<>();
-        // Get all the json files from the moving_violations directory
+        // Get all the JSON/XML files from the moving_violations directory
         try (Stream<Path> paths = Files.walk(Paths.get(
                 "src/main/resources/moving_violations/" + format))) {
             String finalFormat = format;
