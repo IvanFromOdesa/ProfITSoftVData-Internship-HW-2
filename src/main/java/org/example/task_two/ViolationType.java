@@ -1,5 +1,7 @@
 package org.example.task_two;
 
+// Since traffic violation types are pre-defined meaning that
+// we can expect any of them, we can create an enum of those violations
 public enum ViolationType {
     SPEEDING,
     ACDA,
