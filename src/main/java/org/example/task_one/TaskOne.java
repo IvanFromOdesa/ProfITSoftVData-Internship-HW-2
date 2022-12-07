@@ -18,8 +18,8 @@ import java.util.regex.Pattern;
  */
 public class TaskOne {
 
-    private static final Pattern patternSurname = Pattern.compile("surname\\s*=\\s*\"([^\\x00-\\x7F]+\")\\s");
-    private static final Pattern patternName = Pattern.compile("\\b(name\\s*=\\s*)(\"[^\\x00-\\x7F]+)\"");
+    private static final Pattern patternSurname = Pattern.compile("surname\\s*=\\s*\"([^\\x00-\\x7F[\\w]]+\")\\s");
+    private static final Pattern patternName = Pattern.compile("\\b(name\\s*=\\s*)(\"[^\\x00-\\x7F[\\w]]+)\"");
     public static File concatenateNameSurnameXML(String path) {
 
         File file = new File("output_1.xml");
