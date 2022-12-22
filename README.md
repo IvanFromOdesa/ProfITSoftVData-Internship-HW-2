@@ -12,7 +12,7 @@
 
 
 Приклад вхідного файлу:
-(<persons>
+\<persons>
     <person name="Іван" surname="Котляревський" birthDate="09.09.1769" />
     <person surname="Шевченко" name="Тарас" birthDate="09.03.1814" />
     <person
@@ -22,7 +22,7 @@
     <person name="Леся"
             surname="Українка"
             birthData="13.02.1871" />
-</persons>)
+</persons>
 
 Приклад вихідного файлу:
 <persons>
